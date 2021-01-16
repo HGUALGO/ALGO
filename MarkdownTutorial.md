@@ -12,7 +12,7 @@ Github란 다른 사람들과 협업할 때, 편하게 하려고 만들어진 �
 Community로 사용하려고 합니다.
 
 ## 1.2. 마크다운이란?
-마크다운은 .md(MarkDown) 확장자를 가진 파일을 말합니다. HTML로 변환이 가능하다고 얘기하는데, 우리는 .md파일을 이용해서 슬기짜기 Github에서 우리들이 동아리활동한 내용들을 기록하고자 합니다. 기본적인 사용법은 매우 쉽고 단순하므로, 누구나 할 수 있습니다. 각 폴더에는 README.md파일이 있을텐데, 이 파일은 md파일을 들어가지 않더라도 폴더에서 대표로 보이는 md파일이 되도록 해준답니다.
+마크다운은 .md(MarkDown) 확장자를 가진 파일을 말합니다. HTML로 변환이 가능하다고 얘기하는데, 우리는 .md파일을 이용해서 HGUALGO Github에서 우리들의 활동 내용들을 기록하고자 합니다. 기본적인 사용법은 매우 쉽고 단순하므로, 누구나 할 수 있습니다. 각 폴더에는 README.md파일이 있을텐데, 이 파일은 md파일을 들어가지 않더라도 폴더에서 대표로 보이는 md파일이 되도록 해준답니다.
 마크다운 파일을 만드는건 확장자에 .md만 붙여주시면 됩니다. 그리고 파일을 만드는건 Create new File 버튼 눌러서 작성하시면 됩니다.   
 그럼 시작하겠습니다.  
   
@@ -173,8 +173,8 @@ __double underscores__
 ![Alt text](/assets/img.jpg)
 ![Alt text](/assets/img.jpg "Optional title")
 ```
-![슬기짜기 로고2](/assets/img/slegizzagi_proejct_logo_2.png)
-![슬기짜기 로고3](/assets/img/slegizzagi_proejct_logo_3.png)
+![HGU_LOGO2](/assets/img/HGU_LOGO2.jpg)
+![HGU_LOGO3](/assets/img/HGU_LOGO3.jpg)
 
 사이즈 조절 기능은 마크다운언어에는 없기 때문에 ```<img width="" height=""></img>```를 이용합니다.   밑의 내용은 HTML내용인데, 마크다운에서는 HTML언어로 작성해도 실행됩니다.
 
@@ -212,7 +212,6 @@ __double underscores__
 
 # 3. 정리
 위의 내용들이면 충분히 원하는 글들을 충분히 작성할 수 있으리라 생각합니다.   
-학기가 바쁘고, 힘들지라도 다같이 파이팅!!!
 ***Fail big Never give up and then Learn from it***
 
 # 4. Tip
