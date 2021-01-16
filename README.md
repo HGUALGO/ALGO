@@ -1,4 +1,4 @@
-# Handong Problem Solvers
+# HGUALGO
 
 <p align="center"><img src="/assets/img/ours.jpeg"></p>
 
