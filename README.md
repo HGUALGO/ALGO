@@ -1,6 +1,6 @@
 # Handong Problem Solvers
 
-<p align="center"><img src="/assets/img/ours.jpg"></p>
+<p align="center"><img src="/assets/img/ours.jpeg"></p>
 
 ## 소개
 
